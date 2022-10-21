@@ -1,3 +1,5 @@
 # Analysis
 
 ## Model Evaluation
+
+![The model is very cute](C:/Users/avillan/Desktop/Coopie.jpg)
