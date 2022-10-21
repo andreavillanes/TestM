@@ -2,4 +2,4 @@
 
 ## Model Evaluation
 
-![The model is very cute](C:/Users/avillan/Desktop/Coopie.jpg)
+![The model is very cute](docs/Coopie.jpg)
